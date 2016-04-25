@@ -2,7 +2,7 @@
 
 ### しゃべる人
 つっちーと申します  
-https://github.com/lig-dsktschy/ligfes20160426
+http://liginc.co.jp/member/member_detail?user=tsuchiya
 
 ### しゃべる内容
 マイクから音声情報を取得してブラウザ（js）から使ってみた
