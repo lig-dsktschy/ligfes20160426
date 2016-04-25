@@ -16,6 +16,8 @@ https://lig-dsktschy.github.io/ligfes20160426/02/
 https://lig-dsktschy.github.io/ligfes20160426/03/
 
 ### 参考サイト
+* getUserMediaの対応状況  
+http://caniuse.com/#feat=stream
 * navigator.mediaDevices.getUserMedia を利用可能にするポリフィル  
 https://developer.mozilla.org/en-US/docs/Web/API/MediaDevices/getUserMedia
 * navigator.getUserMedia は Deprecated  
@@ -26,5 +28,5 @@ http://curtaincall.weblike.jp/portfolio-web-sounder/webaudioapi-visualization/dr
 http://www.tij.co.jp/lsds/ti_ja/analog/glossary/nyquist_frequency.page
 * Firefox のみ時間経過で LocalMediaStream への参照が切れてしまうバグへの対策  
 https://support.mozilla.org/en-US/questions/984179
-* SIMD
+* SIMD  
 https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/SIMD
