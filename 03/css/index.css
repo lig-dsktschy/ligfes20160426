@@ -1,0 +1,64 @@
+html,
+body,
+.text-container,
+.text-container p,
+.svg-container {
+  margin: 0;
+  width: 100%;
+}
+
+body {
+  font-size: 16px;
+  position: relative;
+  margin-top: 20em;
+  margin-bottom: 10em;
+  height: 1600em;
+}
+
+.text-container,
+.svg-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+}
+
+.text-container {
+  z-index: 1;
+}
+
+.text-container p {
+  line-height: 1;
+  text-align: center;
+}
+
+.svg-container {
+  z-index: 0;
+}
+
+.star,
+.cloud,
+.drop,
+.zawa,
+.baki,
+.hole {
+  position: absolute;
+}
+
+.baki {
+  bottom: 2em;
+  margin-left: 28%;
+  width: 16%;
+}
+
+.hole {
+  bottom: -1em;
+  left: 0;
+  right: 0;
+  margin: auto;
+  width: 6em;
+}
+
+.is-hide {
+  opacity: 0;
+}
