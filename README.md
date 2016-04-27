@@ -7,6 +7,10 @@ http://liginc.co.jp/member/member_detail?user=tsuchiya
 ### しゃべる内容
 マイクから音声情報を取得してブラウザ（js）から使ってみた
 
+### 対応ブラウザ
+* Chrome
+* Firefox
+
 ### demo
 * 音量の表示  
 https://lig-dsktschy.github.io/ligfes20160426/01/
